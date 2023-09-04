@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title> PHOTO EXHIBITION</title>
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js">
+	
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	<div class="bgimg">
+		<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+			<div class="container">
+				<a href="" class="navbar-brand text-warning front-weight-bold">
+
+				PHOTO EXHIBITION</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsenavbar">
+
+<span class="naavbar-toggler-icon"></span>
+				  </button>
+				  <div class="collapse navbar-collapse text-center"id="collapsenavbar">
+				  	<ul class="navbar-nav ml-auto text-white">
+				  		<li class="nav-item">
+				  			<a href="" class="nav-link text-white">SERVICE</a>
+				  		</li> 
+				  		<li class="nav-item">
+				  			<a href="" class="nav-link text-white">PORTFOLIO</a>
+				  		</li> 
+				  		<li class="nav-item">
+				  			<a href="" class="nav-link text-white">ABOUT</a>
+				  		</li> 
+				  		<li class="nav-item">
+				  			<a href="" class="nav-link text-white">TEAM</a>
+				  		</li> 
+				  		<li class="nav-item">
+				  			<a href="" class="nav-link text-white">CONTACT</a>
+				  		</li> 
+				  	</ul>
+			</div>
+		</nav>
+		<div class="container text-center text-red headerset">
+			<h2>Welcome to our exhibition</h2>
+			<h1>nice to meet you</h1>
+			<button class="btn btn-warning text-white btn-lg">Click here</button>
+
+
+	</div>
+	<section class="container ourservices text-center
+	">
+	<h1>SERVICES</h1>
+	<p>Our website will help you to find out your desired thing</p>
+	<div class="row rowsetting">
+		<div class="col-lg--4 col-md-4 col-sm-4 col-10 d-block m-auto ">
+			<div class="imgsetting d-block m-auto bg-warning"><i class="fa fa-cart-plus fa-3x text-white"></i>
+			</div>
+			<h2>E-commerce</h2>
+			<p>A website (also written as web site) is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.</p>
+		</div>
+		<div class="col-lg--4 col-md-4 col-sm-4 col-10 d-block m-auto ">
+			<div class="imgsetting d-block m-auto bg-warning"><i class="fa fa-lock fa-3x text-white"></i>
+			</div>
+			<h2>Photo exhibition</h2>
+			<p>A website (also written as web site) is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.</p>
+		</div>
+		<div class="col-lg--4 col-md-4 col-sm-4 col-10 d-block m-auto">
+			<div class="imgsetting d-block m-auto bg-warning"><i class="fa fa-desktop fa-3x text-white"></i>
+			</div>
+			<h2>websecurity</h2>
+			<p>A website (also written as web site) is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.</p>
+		</div>
+	</div>
+		
+	</section>
+	
+
+	<section class="exhibitiongallery bg-light">
+		<div class="container text-center">
+			<h1>EXHIBITIONGALLLERY</h1>
+			<p>choose the picture</p>
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="2.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">Sunflower</h2>
+						<p class="card-text">Go to your destination,Sunshine</p>
+						<p>Price: $20</p>
+					</div>
+				</div>
+			</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="mood.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">Mood</h2>
+						<p class="card-text">why you are always in mood</p>
+						<p>Price: $30</p>
+					</div>
+				</div>
+			</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="2n.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">Life</h2>
+						<p class="card-text">thrill and chill</p>
+						<p>Price: $25</p>
+					</div>
+				</div>
+			</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="2.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">Sunflower</h2>
+						<p class="card-text">Go to your destination,Sunshine</p>
+						<p>Price: $20</p>
+					</div>
+				</div>
+			</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="73_n.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">star</h2>
+						<p class="card-text">Shine like a star</p>
+						<p>Price: $50</p>
+					</div>
+				</div>
+			</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="xn.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">Doodle</h2>
+						<p class="card-text">its definetely fun</p>
+						<p>Price: $20</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="fl.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">star</h2>
+						<p class="card-text">Shine like a star</p>
+						<p>Price: $50</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="cup.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">star</h2>
+						<p class="card-text">Shine like a star</p>
+						<p>Price: $50</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-10 d-block
+				m-auto">
+				<div class="card">
+					<img src="sj.jpg" class="card-img img-fluid">
+					<div class="card-body">
+						<h2 class="card-title">star</h2>
+						<p class="card-text">Shine like a star</p>
+						<p>Price: $50</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+
+
+	</section>
+	<section class="ourteam">
+		<div class="container text-center">
+			<h1>OUR AMAIZING TEAM</h1>
+			<p>Meet our great and generous developer </p>
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-sm-10 col-12  d-block m-auto">
+					<figure class="figure">
+						<img src="cat.jpg" class="figure-img img-fluid rounded-circle" height="250px" width="250px">
+						<figcaption>
+							<h4>Samirah Sharmin Mim</h4>
+							<p class="figure-caption">Web Developer</p>
+						</figcaption>
+
+					</figure>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-10 col-12  d-block m-auto">
+					<figure class="figure">
+						<img src="rakhi.jpg" class="figure-img img-fluid rounded-circle" height="250px" width="250px">
+						<figcaption>
+							<h4>Tahia sharmin Rakhi</h4>
+							<p class="figure-caption">Web Designer</p>
+						</figcaption>
+
+					</figure>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	
+</body>
+</html>

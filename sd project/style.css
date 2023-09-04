@@ -1,0 +1,102 @@
+.bgimg{
+	background-image: url('1849384.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 660px;
+
+
+}
+.headerset{
+	padding-top: 200px;
+	box-sizing:border-box ;
+
+
+}
+.headerset h2{
+	font-size:42px ;
+
+
+}
+.headerset h1{
+	font-size: 82px;
+	font-weight: bold;
+
+}
+/*
+........ourservices.........*/
+.ourservices{
+
+padding: 100px 0px 60px;
+height: 700px;
+
+
+}
+.ourservices h1
+{
+	margin: 110px 0px !important;
+	font-size: 50px;
+	font-weight: bold;
+
+}
+.rowsetting{
+	margin: 30px 0px !important;
+
+}
+.imgsetting{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+.fa-cart-plus{
+	margin-top: 20px;
+
+}
+.fa-desktop{
+margin-top: 24px;
+}
+.fa-lock{
+margin-top: 20px;
+}
+.rowsetting p{
+	padding:10px;
+	color: #6c757d!important;
+
+}
+.DRAWTOENCHANT h1{
+	margin: 250px 0px !important;
+}
+.exhibitiongallery{
+	height: 1100px;
+	width: 100%;
+	padding: 100px 0px 50px ;
+
+
+}
+.exhibitiongallery h1{
+	font-size: 50px;
+	font-weight:bold ;
+}
+.card{
+	margin-top: 40px;
+}
+.ourteam{
+	height: 2000px;
+	padding:2600px 0px 60px ;
+	width: 100%;
+
+
+}
+
+.ourteam h1{
+	font-size:50px;
+font-weight: bold;
+}
+.teamsetting{
+	margin-top: 1000px !important;
+
+
+}
+#contact{
+	background: linear-gradient(-45deg,white 30%,yellow 0%);
+}
